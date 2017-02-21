@@ -8,7 +8,7 @@
 ####[frank-young]()          JavaScript        
 ####[protang]()              PHP、Java、Android    
 ####[noodlespan]()           Java/Android  
-####[decadego]()             产品  
+####[decadego]()             产品  
 ####[ben-ying]()             Android   
 ####[gwind]()                Linux&云计算     
 ####[klone1127]()            iOS  
