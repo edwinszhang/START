@@ -25,6 +25,8 @@
 | [wfxiaolong](https://github.com/wfxiaolong)       | iOS+Frontend+PHP              |
 | [lonely181](https://github.com/lonely181)         | php+js+python                 |
 | [wudege](https://github.com/wudege)               | PHP                           |
+| [mzp108](https://github.com/mzp108)               | iOS                           |
+| [libiao5320](https://github.com/libiao5320)       | Java                          |
 
 ##远程工作网站整理
 
