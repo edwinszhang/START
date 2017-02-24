@@ -19,6 +19,7 @@
 | [tian2016](https://github.com/tian2016)           | .NET/iOS                      |
 | [yuanLink](https://github.com/yuanLink)           | Python                        |
 | [Lautitia](https://github.com/Lautitia)           | Node                          |
+| [pandashuai](https://github.com/pandashuai)       | Node                          |
 | [edwinszhang](https://github.com/edwinszhang)     | Java                          |
 | [MinWhite](https://github.com/MinWhite)           | Python                        |
 | [weidu23](https://github.com/weidu23)             | iOS                           |
