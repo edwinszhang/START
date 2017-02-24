@@ -2,7 +2,7 @@
 
 | Members                                           | Stack                         |
 | ------------------------------------------------- |:-----------------------------:|
-| [503945930](https://github.com/503945930)         | js 全栈                       |
+| [wei](https://github.com/503945930)               | js 全栈                       |
 | [dcb9](https://github.com/dcb9)                   | Go                            |
 | [jiangTaoQuite](https://github.com/jiangTaoQuite) | Java/Solr/Python              |
 | [z00s](https://github.com/z00s)                   | Java                          |
