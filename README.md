@@ -30,6 +30,7 @@
 | [libiao5320](https://github.com/libiao5320)       | Java                          |
 | [billwang1990](https://github.com/billwang1990)   | iOS/RN                         |
 | [aLazyCoder](https://github.com/aLazyCoder)       | iOS                          |
+| [Wayne](https://github.com/Zhongwei1986)          | Web 前端                     |
 
 ##远程工作网站整理
 
