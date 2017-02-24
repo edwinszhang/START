@@ -27,6 +27,8 @@
 | [wudege](https://github.com/wudege)               | PHP                           |
 | [mzp108](https://github.com/mzp108)               | iOS                           |
 | [libiao5320](https://github.com/libiao5320)       | Java                          |
+| [billwang1990](https://github.com/billwang1990)   | iOS/RN                         |
+| [aLazyCoder](https://github.com/aLazyCoder)       | iOS                          |
 
 ##远程工作网站整理
 
